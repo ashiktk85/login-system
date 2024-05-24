@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/assets/wp12293367-rainy-mountains-wallpapers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    margin-top: 10%;
+    
+}
+
+.btn.btn-success{
+    padding: .6em .9em;
+}
+
+.form-clr{
+    background-color: rgba(245, 245, 220, 0.201);
+    padding: 1em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login.title>span{
+    font-size: .8em;
+}
+.font-weight-bold{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.log-txt{
+    font-size: 20px;
+    font-weight: 400;  
+}
